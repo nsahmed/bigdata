@@ -1,4 +1,4 @@
-__author__ = 'Poonam'
+
 
 import urllib.request
 import json
